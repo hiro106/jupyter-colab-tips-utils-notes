@@ -1,1 +1,2 @@
-
+#### How do I turn on line wrapping in Google Colab? #6274
+https://github.com/jupyter/notebook/issues/6274
