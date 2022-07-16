@@ -9,3 +9,6 @@
 
 - Pandas: Setting no. of max rows
   - https://stackoverflow.com/a/60791082
+
+- max_rows option is broken #28654
+  - https://github.com/pandas-dev/pandas/issues/28654
