@@ -6,3 +6,6 @@
 
 - Jupyter Notebook と Pandas で DataFrame を全て表示するオプション設定
   - https://kakakakakku.hatenablog.com/entry/2021/04/19/090229
+
+- Pandas: Setting no. of max rows
+  - https://stackoverflow.com/a/60791082
