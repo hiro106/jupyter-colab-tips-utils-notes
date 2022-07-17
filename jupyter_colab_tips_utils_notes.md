@@ -12,3 +12,6 @@
 
 - max_rows option is broken #28654
   - https://github.com/pandas-dev/pandas/issues/28654
+
+- 4 Time-Saving Python Tricks in Jupyter-Notebook
+  - https://towardsdatascience.com/best-time-saving-python-tricks-in-jupyter-notebook-fca877132507
