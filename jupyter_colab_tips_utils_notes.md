@@ -16,5 +16,5 @@
 - 4 Time-Saving Python Tricks in Jupyter-Notebook
   - https://towardsdatascience.com/best-time-saving-python-tricks-in-jupyter-notebook-fca877132507
 
-- 8 Must-know Editing Shortcuts for Google Colab
+- 8 Must-know Editing Shortcuts for Google Colab  
 　- https://allardqjy.medium.com/8-must-know-editing-shortcuts-for-google-colab-b440d5de3c69
